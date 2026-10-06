@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: PeterMaZep
+          user: PWindows
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Singapore
