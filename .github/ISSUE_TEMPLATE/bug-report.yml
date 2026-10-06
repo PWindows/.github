@@ -37,7 +37,7 @@ body:
     required: true
 
 - type: textarea
-    id: logs
+    id: software-logs
   attributes:
     label: Error Logs
   validations:
